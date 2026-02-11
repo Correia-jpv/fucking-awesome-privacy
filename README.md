@@ -799,7 +799,7 @@ With email aliases, you can finally create a different identity for each website
 - [Subsonic](https://www.subsonic.org/pages/index.jsp) - Your complete, personal music streamer.
 - [Ampache](https://ampache.org/) - A web based audio/video streaming application and file manager.
 - [Koel](https://koel.dev/) - a personal music streaming server that works.
-- [Nuclear](https://nuclear.js.org/) - Modern music player focused on streaming from free sources.
+- [Nuclear](https://nuclearplayer.com/) - Modern music player focused on streaming from free sources.
 - [Navidrome](https://navidrome.org/) - Lightweight, fast and self-contained personal music streamer.
 - [🤖](#icons) [mucke](https://github.com/moritz-weber/mucke) - A music player for local files with unique custom playback options.
 
