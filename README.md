@@ -786,6 +786,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 ✅ **Instead use**
 
 ### Third-Party owned
+- 🌎 [Mailfo](https://mailfo.pages.dev) - Privacy-first disposable temporary email and instant verification OTP receiver with an Android app and web client.
 - 🌎 [Forward Email](forwardemail.net) - the 100% open-source and privacy-focused email service.
 - 🌎 [ProtonMail](protonmail.com/) - Secure Email. Based in Switzerland. 🌎 [Read this article over Climate activist arrest](protonmail.com/blog/climate-activist-arrest/).
 - 🌎 [Tuta](tuta.com/) - Secure email for everybody. Open Source.
